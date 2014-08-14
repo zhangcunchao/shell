@@ -5,3 +5,4 @@ ps:此目录为nginx相关shell脚本，包括
 
 1. [一键式nginx web站点搭建脚本](buildweb)
 2. [nginx add blocksip脚本](blocksip)
+3. [nginx日志分析脚本](loganalysis)
