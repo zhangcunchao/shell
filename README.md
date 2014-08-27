@@ -8,3 +8,4 @@ shell是一种程序设计语言。作为命令语言，它交互式解释和执
 ps:此目录为相关shell脚本，包括
 
 1. [nginx相关shell脚本](nginx)
+2. [php相关shell脚本](php)
