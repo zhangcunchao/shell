@@ -8,4 +8,4 @@ shell是一种程序设计语言。作为命令语言，它交互式解释和执
 ps:此目录为相关shell脚本，包括
 
 1. [laravel配置文件自动化部署脚本](deploy_test.sh)
-2. [laravel artisan queue进程监控脚本](php)
+2. [laravel artisan queue进程监控脚本](monitor_dsp.sh)
