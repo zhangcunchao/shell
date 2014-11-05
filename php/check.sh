@@ -1,5 +1,5 @@
 #!/bin/bash
-EMAIL='gaoyang03@caissa.com.cn zhangcunchao@caissa.com.cn'
+EMAIL='email'
 start()
 {
         c=`ps w -C php|grep $1|wc -l`
